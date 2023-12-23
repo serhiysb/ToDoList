@@ -1,0 +1,31 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.input-text{
+    width: 80%;
+    font-size: large;
+    border: none;
+    height: 50px;
+    padding-left: 10px;
+    box-shadow: 0 2px 2px 2px #B44129;
+}
+
+.add-btn{
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: #74C291;
+    border: none;
+    box-shadow: 0 2px 2px 2px #B44129;
+    border-radius: 5px;
+}
+
+.add-btn:hover{
+    background-color: #6AAD83;
+}
